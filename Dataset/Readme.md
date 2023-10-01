@@ -1,5 +1,5 @@
 ### Introduction to Dataset
-The dataset is downloaded at 10 am (GMT-7, PDT), Oct 10, 2023.
+The dataset is downloaded at 10 am (GMT-7, PDT), Oct 1, 2023.
 #### Author.csv
 |       Variable      |                                   Definition                                  |
 |:-------------------:|:-----------------------------------------------------------------------------:|
