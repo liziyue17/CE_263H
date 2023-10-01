@@ -5,7 +5,7 @@ The dataset is downloaded at 10 am (GMT-7, PDT), Oct 1, 2023.
 |:-------------------:|:-----------------------------------------------------------------------------:|
 | Author Name         | -                                                                             |
 | Auth-ID             | Scopus Author ID is an identification ID used to uniquely identify an author |
-| Number of Documents | Documents published by the author                                             |
+| Number of Documents | Number of documents published by the author                                             |
 | Subject Area        | **Caution: Multiple lines within the keyword!**                               |
 | Orc_ID              | ORCID                                                                         |
 
